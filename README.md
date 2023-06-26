@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://amirbahador-hub.github.io/myprofiler/"><img src="small_logo.png" alt="GitM" width="200"></a>
+  <a href="https://amirbahador-hub.github.io/myprofiler/"><img src="https://raw.githubusercontent.com/amirbahador-hub/myprofiler/main/small_logo.png" alt="MyProfiler" width="200"></a>
 </h1>
 
 <h4 align="center">A minimal profiler for calculating total execution time and memory usage</h4>
